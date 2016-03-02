@@ -6,7 +6,6 @@ import java.util.List;
  * Created by zhengxiangyun on 2015/11/6.
  */
 
-
 public class PageModel {
 
     public static final int DEFAULT_SIZE = 10;
